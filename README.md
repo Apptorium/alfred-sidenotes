@@ -8,7 +8,7 @@ It can be easily integrated with other apps and now it's integrated with SideNot
 
 This workflow allows you to take notes in SideNotes, create new folders, change theme, search any text in notes and use snippets.
 
-![SideNotes Workflow](https://user-images.githubusercontent.com/868275/139533636-2c7f0f85-d3b3-42e0-ad61-7694055a406b.jpg)
+![SideNotes Workflow](https://user-images.githubusercontent.com/868275/139557524-5567773c-4c35-41d9-b320-f01e48a2088b.jpg)
 
 ## Features
 SideNotes workflow offers:
@@ -86,3 +86,6 @@ You can quickly copy note content by pressing a Command-Option-C in the Search w
 With Alfred, it works even better. Simple enter `snippet` command, find your
 note and press Return to copy note content or Command-Return to copy and **paste it
 in the active app**.
+
+## One More Thing
+We've made a SideNotes theme for Alfred. Check it out here: [https://www.alfredapp.com/extras/theme/He7aMCi2Rz](https://www.alfredapp.com/extras/theme/He7aMCi2Rz)
