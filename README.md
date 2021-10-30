@@ -33,7 +33,7 @@ Then, once you press return key, you choose a folder and it's done.
 You can create a note using selected text in any app. Or using a selected
 file in Finder.
 
-Simple press Option-Command-\. Now you need to choose *Save in SideNotes*
+Simple press Option-Command-\\. Now you need to choose *Save in SideNotes*
 option. Then choose a folder and your note is created.
 
 #### Hotkey
