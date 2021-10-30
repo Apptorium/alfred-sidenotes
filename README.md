@@ -8,6 +8,8 @@ It can be easily integrated with other apps and now it's integrated with SideNot
 
 This workflow allows you to take notes in SideNotes, create new folders, change theme, search any text in notes and use snippets.
 
+![SideNotes Workflow](https://user-images.githubusercontent.com/868275/139533636-2c7f0f85-d3b3-42e0-ad61-7694055a406b.jpg)
+
 ## Features
 SideNotes workflow offers:
 * keywords (commands) – most of them starts with `sn ` prefix;
